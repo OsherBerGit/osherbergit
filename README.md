@@ -89,7 +89,7 @@
 <ul>
   <!-- <li><strong>ToDoList</strong> — A simple task management system with priorities and reminders (coming soon).</li>
   <li><strong>Chat System</strong> — A small real-time communication project with Java & Firebase (in development).</li> -->
-  <li><strong>ToDoList</strong> — Will come in the future...</li>
+  <li><strong></strong> Will come in the future...</li>
 </ul>
 
 <!-- GitHub Analytics -->
