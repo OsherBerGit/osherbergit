@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**OsherBerGit/osherbergit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Quick Overview
+Role: Software engineering student
 
-Here are some ideas to get you started:
+Specialization: Backend and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus: Building projects in different programming languages and exploring software design
+
+Mission: Keep improving at writing clean, efficient code — and dive deeper into game development
+
+🛠️ Technology Arsenal
+💻 Core Languages
+C C# Java Javascript Python
+
+🎨 Frontend Mastery
+HTML CSS React
+
+⚙️ Backend & Server Technologies
+Spring Boot Node.js
+
+🗄️ Database Technologies
+MySQL Firebase
+
+🛠️ DevOps & Tools
+Git GitHub
+
+💡 Development Philosophy & Principles
+“Good code is like a well-written story — clear, structured, and easy to follow.”
+
+🏗️ Development Mindset
+Writing maintainable and modular code
+Practicing version control and collaboration
+Learning design principles and clean architecture
+Exploring new technologies through personal projects
+
+📂 Featured Projects
+Coming soon... (Stay tuned!)
+
+📊 GitHub Analytics
+Top Languages
