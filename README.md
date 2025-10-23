@@ -45,12 +45,12 @@
 </p>
 
 <h3>🧰 DevOps & Tools</h3>
-<p style="margin: 5px 0 20px 0;">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" />
+<!-- <p style="margin: 5px 0 20px 0;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" /> -->
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:40px; height:40px;" />
 </p>
 
-<h3>🧑‍💻 IDEs & Environments</h3>
+<!-- <h3>🧑‍💻 IDEs & Environments</h3>
 <p style="margin: 5px 0 20px 0;">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=clion" alt="CLion" style="width:40px; height:40px;" />
@@ -58,7 +58,7 @@
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" style="width:40px; height:40px;" />
-</p>
+</p> -->
 
 <h3>🎮 Game Engines</h3>
 <p style="margin: 5px 0 20px 0;">
@@ -87,8 +87,9 @@
 
 <h2>📂 Featured Projects</h2>
 <ul>
-  <li><strong>ToDoList</strong> — A simple task management system with priorities and reminders (coming soon).</li>
-  <li><strong>Chat System</strong> — A small real-time communication project with Java & Firebase (in development).</li>
+  <!-- <li><strong>ToDoList</strong> — A simple task management system with priorities and reminders (coming soon).</li>
+  <li><strong>Chat System</strong> — A small real-time communication project with Java & Firebase (in development).</li> -->
+  <li><strong>ToDoList</strong> — Will come in the future...</li>
 </ul>
 
 <!-- GitHub Analytics -->
