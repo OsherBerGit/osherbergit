@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width:40px; height:40px;" />
 </p>
 
-<h3>🎨 Frontend</h3>
+<h3>🎨 Frontend Mastery</h3>
 <p style="margin: 5px 0 20px 0;">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:40px; height:40px;" />
