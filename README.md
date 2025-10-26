@@ -35,7 +35,9 @@
 <h3>⚙️ Backend & Server Technologies</h3>
 <p style="margin: 5px 0 20px 0;">
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" style="width:40px; height:40px;" />
-  <!-- <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:40px; height:40px;" /> To Add --> 
+  <!-- 
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" style="width:40px; height:40px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:40px; height:40px;" /> To Add --> 
 </p>
 
 <h3>🗄️ Database Technologies</h3>
@@ -50,13 +52,14 @@
 
 <h3>🧰 DevOps & Tools</h3>
 <p style="margin: 5px 0 20px 0;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:40px; height:40px;" />
 </p>
 
 <!-- 
 <h3>🎮 Game Engines</h3>
 <p style="margin: 5px 0 20px 0;">
-  <img src="https://skillicons.dev/icons?i=godot" alt="Godot" style="width:40px; height:40px;" /> CAN BE ADDED (AFTER THE GAME PROJECT)
+  <img src="https://skillicons.dev/icons?i=godot" alt="Godot" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="width:40px; height:40px;" />
 </p>
 -->
@@ -82,8 +85,6 @@
 
 <h2>📂 Featured Projects</h2>
 <ul>
-  <!-- <li><strong>ToDoList</strong> — A simple task management system with priorities and reminders (coming soon).</li>
-  <li><strong>Chat System</strong> — A small real-time communication project with Java & Firebase (in development).</li> -->
   <li><strong></strong> Will come in the future...</li>
 </ul>
 
