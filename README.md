@@ -56,13 +56,11 @@
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:40px; height:40px;" />
 </p>
 
-<!-- 
 <h3>🎮 Game Engines</h3>
 <p style="margin: 5px 0 20px 0;">
   <img src="https://skillicons.dev/icons?i=godot" alt="Godot" style="width:40px; height:40px;" />
-  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="width:40px; height:40px;" />
+  <!-- <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="width:40px; height:40px;" /> -->
 </p>
--->
 
 <!-- Development Philosophy -->
 
