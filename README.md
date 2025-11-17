@@ -65,7 +65,7 @@
 
 <h3>🧰 DevOps & Tools</h3>
 <p style="margin: 5px 0 20px 0;">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" />
+  <!-- <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" /> -->
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:40px; height:40px;" />
   <!-- <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width:40px; height:40px;" /> -->
 </p>
