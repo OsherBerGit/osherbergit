@@ -5,7 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there!%20👋%0AI'm%20Osher%20Berger&section=footer&fontSize=30&textBg=false&descSize=1" alt="Osher Berger Logo" style="display:block; max-width:480px; height:auto; margin: 0 auto 20px auto;">
 
 <!-- Quick Overview -->
-
 <h2>🚀 Quick Overview</h2>
 <p><strong>Role:</strong> Software Engineering Student</p>
 <p><strong>Specialization:</strong> Backend Development & Web Applications</p>
@@ -75,11 +74,8 @@
 <p style="margin: 5px 0 20px 0;">
   <img src="https://skillicons.dev/icons?i=godot" alt="Godot" style="width:40px; height:40px;" />
   
-  <!-- TO ADD
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="width:40px; height:40px;" />
-  -->
-</p>
--->
+</p> -->
 
 <!-- Development Philosophy -->
 <!--
@@ -105,11 +101,9 @@
 <h2>📂 Featured Projects</h2>
 <ul>
   <li><strong></strong> Will come in the future...</li>
-</ul>
--->
+</ul> -->
 
 <!-- GitHub Analytics -->
-
 <h2>📊 GitHub Analytics</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osherberger&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" />
 
