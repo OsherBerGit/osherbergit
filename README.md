@@ -82,7 +82,6 @@
 -->
 
 <!-- Development Philosophy -->
-
 <!--
 <h2>💡 Development Philosophy</h2>
 <blockquote>
@@ -91,7 +90,6 @@
 -->
 
 <!-- Development Mindset -->
-
 <!--
 <h2>🏗️ Development Mindset</h2>
 <ul>
@@ -103,7 +101,6 @@
 -->
 
 <!-- Featured Projects -->
-
 <!--
 <h2>📂 Featured Projects</h2>
 <ul>
@@ -117,19 +114,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osherberger&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" />
 
 <!-- Let's Connect -->
-
 <!--
 <h2>💬 Let's Connect</h2>
-<p>Always open to learning, collaborating, and exploring new technologies.</p>
--->
+<p>Always open to learning, collaborating, and exploring new technologies.</p> -->
 
 <!-- Inspiration -->
-
 <!--
 <h2>💭 Inspiration</h2>
 <blockquote>
 "The best way to predict the future is to create it." — Peter Drucker
-</blockquote> -->
+</blockquote>
 -->
 
 </body>
