@@ -87,10 +87,11 @@
 <h2>💡 Development Philosophy</h2>
 <blockquote>
 "Good code is like a well-written story — clear, structured, and easy to follow."
-</blockquote>
+</blockquote> -->
 
 <!-- Development Mindset -->
 
+<!--
 <h2>🏗️ Development Mindset</h2>
 <ul>
   <li>Writing clean, modular, and maintainable code</li>
@@ -98,9 +99,11 @@
   <li>Learning design patterns and architecture principles</li>
   <li>Building real-world projects for continuous growth</li>
 </ul>
+-->
 
 <!-- Featured Projects -->
 
+<!--
 <h2>📂 Featured Projects</h2>
 <ul>
   <li><strong></strong> Will come in the future...</li>
@@ -112,11 +115,12 @@
 <h2>📊 GitHub Analytics</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osherberger&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" />
 
-<!--
 <!-- Let's Connect -->
 
+<!--
 <h2>💬 Let's Connect</h2>
 <p>Always open to learning, collaborating, and exploring new technologies.</p>
+-->
 
 <!-- Inspiration -->
 
