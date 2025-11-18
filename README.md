@@ -81,13 +81,14 @@
 </p>
 -->
 
-<!--
 <!-- Development Philosophy -->
 
+<!--
 <h2>💡 Development Philosophy</h2>
 <blockquote>
 "Good code is like a well-written story — clear, structured, and easy to follow."
-</blockquote> -->
+</blockquote>
+-->
 
 <!-- Development Mindset -->
 
@@ -124,7 +125,8 @@
 
 <!-- Inspiration -->
 
-<!-- <h2>💭 Inspiration</h2>
+<!--
+<h2>💭 Inspiration</h2>
 <blockquote>
 "The best way to predict the future is to create it." — Peter Drucker
 </blockquote> -->
