@@ -70,6 +70,7 @@
   <!-- <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width:40px; height:40px;" /> -->
 </p>
 
+<!--
 <h3>🎮 Game Engines</h3>
 <p style="margin: 5px 0 20px 0;">
   <img src="https://skillicons.dev/icons?i=godot" alt="Godot" style="width:40px; height:40px;" />
@@ -78,7 +79,9 @@
   <img src="https://skillicons.dev/icons?i=unity" alt="Unity" style="width:40px; height:40px;" />
   -->
 </p>
+-->
 
+<!--
 <!-- Development Philosophy -->
 
 <h2>💡 Development Philosophy</h2>
@@ -102,12 +105,14 @@
 <ul>
   <li><strong></strong> Will come in the future...</li>
 </ul>
+-->
 
 <!-- GitHub Analytics -->
 
 <h2>📊 GitHub Analytics</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osherberger&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" />
 
+<!--
 <!-- Let's Connect -->
 
 <h2>💬 Let's Connect</h2>
@@ -119,5 +124,6 @@
 <blockquote>
 "The best way to predict the future is to create it." — Peter Drucker
 </blockquote> -->
+-->
 
 </body>
