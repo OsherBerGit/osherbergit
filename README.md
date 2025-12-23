@@ -4,8 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there!%20👋%0AI'm%20Osher%20Berger&section=footer&fontSize=30&textBg=false&descSize=1" alt="Osher Berger Logo" style="display:block; max-width:480px; height:auto; margin: 0 auto 20px auto;">
 
-<!--
 <!-- Quick Overview -->
+<!--
 <h2>🚀 Quick Overview</h2>
 <p><strong>Role:</strong> Software Engineering Student</p>
 <p><strong>Specialization:</strong> Backend Development & Web Applications</p>
