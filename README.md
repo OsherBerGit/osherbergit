@@ -4,15 +4,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there!%20👋%0AI'm%20Osher%20Berger&section=footer&fontSize=30&textBg=false&descSize=1" alt="Osher Berger Logo" style="display:block; max-width:480px; height:auto; margin: 0 auto 20px auto;">
 
+<!--
 <!-- Quick Overview -->
 <h2>🚀 Quick Overview</h2>
 <p><strong>Role:</strong> Software Engineering Student</p>
 <p><strong>Specialization:</strong> Backend Development & Web Applications</p>
 <p><strong>Current Focus:</strong> Building projects across multiple programming languages and exploring software architecture.</p>
-<p><strong>Mission:</strong> Keep learning, keep building — from small ideas to complete systems.</p>
+<p><strong>Mission:</strong> Keep learning, keep building - from small ideas to complete systems.</p>
+-->
 
 <!-- Technology Arsenal -->
-
 <h2>🛠️ Technology Arsenal</h2>
 
 <h3>💻 Core Languages</h3>
