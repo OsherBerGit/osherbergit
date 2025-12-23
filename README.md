@@ -106,7 +106,7 @@
 
 <!-- GitHub Analytics -->
 <h2>📊 GitHub Analytics</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osherbergit&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherBerGit&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" />
 
 <!-- Let's Connect -->
 <!--
