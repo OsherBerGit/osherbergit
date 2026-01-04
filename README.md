@@ -72,10 +72,8 @@
 </p>
 -->
 
-<!--
 <h2>💡 Development Philosophy</h2>
-<blockquote></blockquote>
--->
+<!-- <blockquote></blockquote> -->
 
 <h3>🏗️ Architecture & Design Principles</h3>
 <ul>
