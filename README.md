@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" style="width:40px; height:40px;" />
   
-  <!-- TO ADD
+  <!--
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width:40px; height:40px;" />
   --> 
@@ -50,10 +50,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" style="width:40px; height:40px;" />
   
-  <!-- TO ADD
+  <!--
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="width:40px; height:40px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="width:40px; height:40px;" />
   --> 
 </p>
 
@@ -77,21 +77,30 @@
 <blockquote></blockquote>
 -->
 
-<!--
-<h2>🏗️ Development Mindset</h2>
+<h3>🏗️ Architecture & Design Principles</h3>
 <ul>
-  <li>Writing clean, modular, and maintainable code</li>
-  <li>Practicing version control and collaboration</li>
-  <li>Learning design patterns and architecture principles</li>
-  <li>Building real-world projects for continuous growth</li>
+  <li><strong>SOLID Principles:</strong> Foundation for maintainable and scalable code</li>
+  <li><strong>Clean Architecture:</strong> Separating concerns and dependencies</li>
+  <li><strong>Design Patterns:</strong> Solving recurring problems with proven solutions</li>
+  <li><strong>Test-Driven Development:</strong> Quality through comprehensive testing</li>
+  <li><strong>API-First Design:</strong> Creating robust, documented interfaces</li>
+</ul>
+
+<!--
+<h3>🔄 Development Practices</h3>
+<ul>
+  <li>Agile methodologies and continuous integration</li>
+  <li>Code reviews and pair programming</li>
+  <li>Documentation-driven development</li>
+  <li>Performance optimization and monitoring</li>
+  <li>Security-first implementation</li>
+  <li>Accessibility and inclusive design</li>
 </ul>
 -->
 
 <!--
 <h2>📂 Featured Projects</h2>
-<ul>
-  <li><strong></strong></li>
-</ul>
+<ul><li><strong></strong></li></ul>
 -->
 
 <!--
