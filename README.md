@@ -103,7 +103,7 @@
 
 <h2>📊 GitHub Analytics</h2>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherBerGit&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" /> -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OsherBerGit&layout=compact&bg_color=ffffff&title_color=007acc&text_color=333333&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OsherBerGit&layout=compact&bg_color=ffffff&title_color=007acc&text_color=333333&border_color=007acc&hide_border=false" alt="Top Languages" />
 
 <!--
 <h2>💬 Let's Connect</h2>
