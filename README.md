@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there!%20👋%0AI'm%20Osher%20Berger&section=footer&fontSize=30&textBg=false&descSize=1" alt="Osher Berger Logo" style="display:block; max-width:480px; height:auto; margin: 0 auto 20px auto;">
 
 <h2>🚀 Quick Overview</h2>
-<p><strong>Role:</strong> Software Engineering Student</p>
-<p><strong>Specialization:</strong> Backend Development & Web Applications</p>
-<p><strong>Current Focus:</strong> Building projects across multiple programming languages and exploring software architecture.</p>
-<p><strong>Mission:</strong> Keep learning, keep building - from small ideas to complete systems.</p>
+<p><strong>Role:</strong> Software Engineering Student & Aspiring Backend Developer</p>
+<p><strong>Specialization:</strong> Server-Side Logic, API Development, and Full-Stack Web Solutions</p>
+<p><strong>Current Focus:</strong> Architecting robust backend systems and expanding my polyglot programming skills.</p>
+<p><strong>Mission:</strong> Transforming complex logic into clean, efficient code while continuously leveling up my technical stack.</p>
 
 <h2>🛠️ Technology Arsenal</h2>
 
@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:40px; height:40px;" />
-  <!-- <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width:40px; height:40px;" /> ADD --> 
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width:40px; height:40px;" />
 </p>
 
@@ -27,10 +27,7 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" style="width:40px; height:40px;" />
   
-  <!--
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" style="width:40px; height:40px;" />
-  <img src="https://skillicons.dev/icons?i=lit" alt="Lit" style="width:40px; height:40px;" />
-  --> 
+  <!-- <img src="https://skillicons.dev/icons?i=angular" alt="Angular" style="width:40px; height:40px;" /> --> 
 </p>
 
 <h3>⚙️ Backend & Server Technologies</h3>
@@ -59,9 +56,9 @@
 
 <h3>🧰 DevOps & Tools</h3>
 <p style="margin: 5px 0 20px 0;">
-  <!-- <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" /> -->
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width:40px; height:40px;" />
-  <!-- <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width:40px; height:40px;" /> -->
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="width:40px; height:40px;" />
 </p>
 
 <!--
@@ -73,15 +70,13 @@
 -->
 
 <h2>💡 Development Philosophy</h2>
-<!-- <blockquote></blockquote> -->
-
 <h3>🏗️ Architecture & Design Principles</h3>
 <ul>
-  <li><strong>SOLID Principles:</strong> Foundation for maintainable and scalable code</li>
-  <li><strong>Clean Architecture:</strong> Separating concerns and dependencies</li>
-  <li><strong>Design Patterns:</strong> Solving recurring problems with proven solutions</li>
-  <li><strong>Test-Driven Development:</strong> Quality through comprehensive testing</li>
-  <li><strong>API-First Design:</strong> Creating robust, documented interfaces</li>
+  <li><strong>Core Principles:</strong> Applying SOLID concepts to ensure modular and maintainable codebases.</li>
+  <li><strong>Software Architecture:</strong> Designing decoupled systems with clear separation of concerns.</li>
+  <li><strong>Explicit Design Patterns:</strong> Utilizing structural and behavioral patterns (e.g., Builder, Strategy) to solve complex problems efficiently.</li>
+  <li><strong>Security by Design:</strong> Prioritizing secure architectures, such as Zero-Trust approaches, from the ground up.</li>
+  <li><strong>API Development:</strong> Crafting clear, reliable, and well-documented endpoints for seamless integration.</li>
 </ul>
 
 <!--
@@ -98,21 +93,24 @@
 
 <!--
 <h2>📂 Featured Projects</h2>
-<ul><li><strong></strong></li></ul>
+<ul>
+  <li>
+    <strong>Secure-Schedule</strong> – A secure personnel task scheduling solver built with a Zero-Trust architecture. Currently finalizing real-time updates using HTTP Long Polling.
+  </li>
+  <li>
+    <strong>Biostream</strong> – A robust application designed for efficient data flow and processing. Currently focusing on finalizing IoT integration for real-time monitoring.
+  </li>
+  <li>
+    <strong>C# Backend Core</strong> – A scalable server-side architecture handling complex data flows. Actively improving the system by adding custom middleware, unit testing, and Firebase services.
+  </li>
+</ul>
 -->
 
 <h2>📊 GitHub Analytics</h2>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherBerGit&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" /> -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OsherBerGit&layout=compact&bg_color=ffffff&title_color=007acc&text_color=333333&border_color=007acc&hide_border=false" alt="Top Languages" />
 
-<!--
-<h2>💬 Let's Connect</h2>
-<p>Always open to learning, collaborating, and exploring new technologies.</p>
--->
-
-<!--
-<h2>💭 Inspiration</h2>
-<blockquote></blockquote>
--->
+<!-- <h2>💬 Let's Connect</h2> <p>Always open to learning, collaborating, and exploring new technologies.</p> -->
+<!-- <h2>💭 Inspiration</h2> <blockquote></blockquote> -->
 
 </body>
