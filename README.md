@@ -91,7 +91,6 @@
 </ul>
 -->
 
-<!--
 <h2>📂 Featured Projects</h2>
 <ul>
   <li>
@@ -104,7 +103,6 @@
     <strong>C# Backend Core</strong> – A scalable server-side architecture handling complex data flows. Actively improving the system by adding custom middleware, unit testing, and Firebase services.
   </li>
 </ul>
--->
 
 <h2>📊 GitHub Analytics</h2>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherBerGit&layout=compact" alt="Top Languages" style="display:block; margin:10px 0 20px 0; max-width:500px;" /> -->
