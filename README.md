@@ -32,7 +32,7 @@
 
 <h3>⚙️ Backend & Server Technologies</h3>
 <p style="margin: 5px 0 20px 0;">
-  <!-- <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" style="width:40px; height:40px;" /> -->
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" style="width:40px; height:40px;" />
   <!-- <img src="https://skillicons.dev/icons?i=flask" alt="Flask" style="width:40px; height:40px;" /> -->
   
