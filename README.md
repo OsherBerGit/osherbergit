@@ -94,13 +94,19 @@
 <h2>📂 Featured Projects</h2>
 <ul>
   <li>
-    <strong>Secure-Schedule</strong> – A secure personnel task scheduling solver built with a Zero-Trust architecture. Currently finalizing real-time updates using HTTP Long Polling.
+    <strong>Secure-Schedule</strong> – A high-security personnel task scheduling solver featuring a Zero-Trust architecture. Finalizing real-time synchronization using HTTP Long Polling.
   </li>
   <li>
-    <strong>Biostream</strong> – A robust application designed for efficient data flow and processing. Currently focusing on finalizing IoT integration for real-time monitoring.
+    <strong>Polyglot Microservices (Health-Tech)</strong> – An event-driven distributed system designed with Hexagonal Architecture. Implementing a polyglot stack (Spring, Go) with Kafka for messaging and ELK/Prometheus for full-stack observability.
   </li>
   <li>
-    <strong>C# Backend Core</strong> – A scalable server-side architecture handling complex data flows. Actively improving the system by adding custom middleware, unit testing, and Firebase services.
+    <strong>Rust AI Pipeline</strong> – A high-performance real-time data pipeline leveraging Rust and WebSockets. Focuses on output arbitration and failure forensics for AI-driven workflows.
+  </li>
+  <li>
+    <strong>C# Backend Core</strong> – A refined .NET 8 implementation showcasing advanced middleware patterns, unit testing, and secure Firebase Auth integration.
+  </li>
+  <li>
+    <strong>Tech Portfolio & Blog</strong> – A modern, performant web presence built with Next.js and React to document technical deep-dives and architectural decisions.
   </li>
 </ul>
 
