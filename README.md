@@ -103,7 +103,7 @@
     <strong>Rust AI Pipeline</strong> – A high-performance real-time data pipeline leveraging Rust and WebSockets. Focuses on output arbitration and failure forensics for AI-driven workflows.
   </li>
   <li>
-    <strong>C# Backend Core</strong> – A refined .NET 8 implementation showcasing advanced middleware patterns, unit testing, and secure Firebase Auth integration.
+    <strong>C# Backend Core</strong> – A scalable .NET 8 server-side implementation utilizing Entity Framework Core and PostgreSQL. Features a secure identity layer with Firebase Auth and efficient media management via Cloudinary, all documented through ADR practices.
   </li>
   <li>
     <strong>Tech Portfolio & Blog</strong> – A modern, performant web presence built with Next.js and React to document technical deep-dives and architectural decisions.
