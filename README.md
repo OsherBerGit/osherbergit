@@ -13,7 +13,7 @@
 <h3>💻 Core Languages</h3>
 <p style="margin: 5px 0 20px 0;">
   <img src="https://skillicons.dev/icons?i=c" alt="C" style="width:40px; height:40px;" />
-  <!-- <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="width:40px; height:40px;" /> ADD --> 
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width:40px; height:40px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width:40px; height:40px;" />
